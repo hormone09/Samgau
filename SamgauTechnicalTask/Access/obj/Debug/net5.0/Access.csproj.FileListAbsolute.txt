@@ -1,0 +1,12 @@
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\bin\Debug\net5.0\Access.deps.json
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\bin\Debug\net5.0\Access.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\bin\Debug\net5.0\ref\Access.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\bin\Debug\net5.0\Access.pdb
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\obj\Debug\net5.0\Access.csproj.AssemblyReference.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\obj\Debug\net5.0\Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\obj\Debug\net5.0\Access.AssemblyInfoInputs.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\obj\Debug\net5.0\Access.AssemblyInfo.cs
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\obj\Debug\net5.0\Access.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\obj\Debug\net5.0\Access.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\obj\Debug\net5.0\ref\Access.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Access\obj\Debug\net5.0\Access.pdb

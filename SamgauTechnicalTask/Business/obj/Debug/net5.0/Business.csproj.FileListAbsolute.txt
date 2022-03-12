@@ -1,0 +1,5 @@
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache

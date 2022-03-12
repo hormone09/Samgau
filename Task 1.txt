@@ -1,0 +1,42 @@
+			Entities
+
+1. Student
+
+2. Course
+
+3. Teacher
+
+4. Group
+
+
+			Properties of entities
+
+			
+			People
+1. ID
+2. OLD 
+3. First Name
+4. Second Name
+5. Last Name
+6. Short Name
+7. SexID
+
+			Student
+
+1. ID
+3. IsBudget
+4. GroupID
+
+			Teacher
+1. ID
+
+			Group
+1. ID 
+2. Name
+3. SpecialityID
+4. TeacherID
+
+			Course
+1. ID
+2. Name
+3. TeacherID
