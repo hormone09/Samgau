@@ -56,5 +56,39 @@ namespace Business.Managers
 
 			return models;
 		}
+
+		public void Update(StudentModel model)
+		{
+			var validationResult = model.Validate();
+			if (!validationResult.IsValid) throw new Exception(validationResult.GetMessage());
+
+			var entity = EntityMapper.Map(model);
+
+			try
+			{
+				if (model.ID > 0)
+					studentRepository.Update(entity);
+				else
+					studentRepository.Insert(entity);
+			}
+			catch (Exception ex)
+			{
+				throw new Exception($"Ошибка добавления: \n {ex.Message}");
+			}
+		}
+
+		public void Delete(long? ID)
+		{
+			if (ID == null) throw new ArgumentNullException("Ошибка удаления, ID не получен.");
+
+			try
+			{
+				studentRepository.Delete(ID.Value);
+			}
+			catch (Exception ex)
+			{
+				throw new Exception($"Ошибка удаления: \n {ex.Message}");
+			}
+		}
 	}
 }

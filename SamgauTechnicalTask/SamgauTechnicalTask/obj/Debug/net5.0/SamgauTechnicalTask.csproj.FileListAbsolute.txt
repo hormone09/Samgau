@@ -43,7 +43,6 @@ C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Samgau
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\bin\Debug\net5.0\Business.pdb
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\bin\Debug\net5.0\Access.pdb
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\obj\Debug\net5.0\Razor\Views\_Layout.cshtml.g.cs
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -120,3 +119,4 @@ C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Samgau
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\SamgauTechnicalTask\obj\Debug\net5.0\Razor\Views\Home\_Layout.cshtml.g.cs

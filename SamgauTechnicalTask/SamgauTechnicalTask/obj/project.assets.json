@@ -6734,7 +6734,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://cit-damu.pkgs.visualstudio.com/_packaging/DamuLibs%40Local/nuget/v3/index.json": {}
+        "https://cit-damu.pkgs.visualstudio.com/_packaging/DamuLibs%40Local/nuget/v3/index.json": {},
+        "https://nuget.devexpress.com/qpu9PtO7w6ouQbZKqY3vyPjrMj82itQbcHcJ7YgWh8zfUiYIlW/api": {}
       },
       "frameworks": {
         "net5.0": {

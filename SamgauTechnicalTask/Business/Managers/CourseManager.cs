@@ -44,5 +44,41 @@ namespace Business.Managers
 
 			return models;
 		}
+
+		public void Update(CourseModel model)	
+		{
+			if (model == null) throw new ArgumentNullException(nameof(CourseModel));
+
+			var validationResult = model.Validate();
+			if (!validationResult.IsValid) throw new Exception(validationResult.GetMessage());
+
+			var entity = EntityMapper.Map(model);
+
+			try
+			{
+				if (model.ID > 0) 
+					courseRepository.Update(entity);
+				else 
+					courseRepository.Insert(entity);
+			}
+			catch(Exception ex)
+			{
+				throw new Exception($"Ошибка добавления: \n {ex.Message}");
+			}
+		}
+
+		public void Delete(long? ID)
+		{
+			if (ID == null) throw new ArgumentNullException("Ошибка удаления, ID не получен.");
+
+			try
+			{
+				courseRepository.Delete(ID.Value);
+			}
+			catch(Exception ex)
+			{
+				throw new Exception($"Ошибка удаления: \n {ex.Message}");
+			}
+		}
 	}
 }

@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Business.Models;
 
 namespace SamgauTechnicalTask.Controllers
 {
@@ -19,15 +20,22 @@ namespace SamgauTechnicalTask.Controllers
 			this.studentManager = studentManager;
 		}
 
-		public IActionResult Index()
-		{
-			return View();
-		}
-
 		[HttpPost]
 		public JsonResult GetList(StudentQueryModel queryModel)
 		{
 			return Json(studentManager.GetList(queryModel));
+		}
+
+		[HttpPost]
+		public void Update(StudentModel model)
+		{
+			studentManager.Update(model);
+		}
+
+		[HttpPost]
+		public void Delete(long ID)
+		{
+			studentManager.Delete(ID);
 		}
 	}
 }
