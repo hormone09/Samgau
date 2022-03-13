@@ -3,3 +3,13 @@ C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Busine
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
 C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\bin\Debug\net5.0\Access.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\bin\Debug\net5.0\Access.pdb
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Владимир\Desktop\Code\C#\ТЗ\Samgau\SamgauTechnicalTask\Business\obj\Debug\net5.0\Business.pdb

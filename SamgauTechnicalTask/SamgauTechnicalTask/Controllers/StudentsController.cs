@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Business.QueryModels;
+using Business.Managers;
+
+using Microsoft.AspNetCore.Mvc;
 
 using System;
 using System.Collections.Generic;
@@ -9,9 +12,22 @@ namespace SamgauTechnicalTask.Controllers
 {
 	public class StudentsController : Controller
 	{
+		StudentManager studentManager;
+
+		public StudentsController(StudentManager studentManager)
+		{
+			this.studentManager = studentManager;
+		}
+
 		public IActionResult Index()
 		{
 			return View();
+		}
+
+		[HttpPost]
+		public JsonResult GetList(StudentQueryModel queryModel)
+		{
+			return Json(studentManager.GetList(queryModel));
 		}
 	}
 }
